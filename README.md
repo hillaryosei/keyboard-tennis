@@ -1,5 +1,5 @@
 # Keyboard Tennis
-An online tennis game created for my Code! 2 (Spring 2020) Final Project, taught by @CodingTrain
+An online tennis game created for my Code! 2 (Spring 2020) Final Project, taught by @CodingTrain. Migrated from code ditor p5.js.
 
 # Instructions
 Players must use the 'q' & 'a' keys to control the racket on the left side and the keys 'p' & ‘l' to control the racket on the right. The goal of the game is to reach 20 points. Once this number is reached, the game ends.
